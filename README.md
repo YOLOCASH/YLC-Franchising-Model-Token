@@ -3,10 +3,10 @@ Yolocash (YLC) is an ERC20 token. Its primary utility is to provide an easy &amp
 Yolocash is a community-driven crypto ecosystem where Business and digital currency meet. Being an open source Community, we have an extensive global team that works around the clock and we are always inviting other developers with the same vision to join our ever-expanding global team of blockchain developers.
 We offer a E-commerce system services, that allow online and storefront merchants to accept many different crypo’s as a payment solution in franchising any kind of business. People can choose business they want to franchise and it would be easy to do it by using Yolocash token and blockchain technology.
 
-White paper : https://drive.google.com/file/d/1UOznvHCFUSGvsJueTRrpIInGB9qp87wh/view?usp=sharing
+Whitepaper : https://drive.google.com/file/d/1igtFyKss6lbVXsQQJDH4NnD1OimdAivf/view
 Our Team : https://www.yoloworld.org/team
 Projects : https://www.yoloworld.org/projects
-Our Logo : https://goo.gl/images/Ff5NeM
+Our Logo : https://drive.google.com/file/d/1SUf5pGvEwDHM-vynC159YNLhpY5e1V0E/view?usp=sharing
 
 YOLOCASH Token Verified Ethereum contract link : https://etherscan.io/token/0x18367F4eCa68f7F374f61784ba38BCeC3Fee77f8
 
